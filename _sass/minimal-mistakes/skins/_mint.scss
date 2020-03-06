@@ -1,18 +1,21 @@
 /* ==========================================================================
-   Mint skin
+   Mint skin ;
+   point #11999e
+   text #40514e
    ========================================================================== */
 
 /* Colors */
 $background-color: #f3f6f6 !default;
-$text-color: #40514e !default;
-$muted-text-color: #40514e !default;
-$primary-color: #11999e !default;
-$border-color: mix(#fff, #40514e, 75%) !default;
-$footer-background-color: #30e3ca !default;
-$link-color: #11999e !default;
+$text-color: #3e3347 !default;
+$muted-text-color: #3e3347 !default;
+$primary-color: #ae95f0 !default;
+$border-color: mix(#fff, #3e3347, 75%) !default;
+$footer-background-color: #ae95f0 !default;
+$link-color: #ae95f0 !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$code-background-color: #d8c9f8 !default;
 
 .page__footer {
   color: #fff !important; // override
