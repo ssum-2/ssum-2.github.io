@@ -15,7 +15,7 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
-last_modified_at: 2020-03-05
+last_modified_at: 2020-03-06
 ---
 
 # google cloud platform
