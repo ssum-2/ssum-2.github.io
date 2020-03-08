@@ -16,7 +16,6 @@ last_modified_at: 2019-08-19
 ---
 
 ## 텍스트 전처리(Text preprocessing)
-
 > 용도에 맞게 텍스트를 사전에 처리하는 작업	
 
 ---
