@@ -12,7 +12,7 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
-last_modified_at: 2020-01-04
+last_modified_at: 2019-08-18
 ---
 
 ## 머신러닝 워크플로우
