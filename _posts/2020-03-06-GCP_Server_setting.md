@@ -4,7 +4,7 @@ classes: wide
 categories:
   - GCP
   - Server
-  - 파이토치 첫 걸음
+  - Study
 tags:
   - python
   - anaconda3

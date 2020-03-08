@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SSUM2"
 description              : "Machine Learning/Deep Learning/Natural Language Processing"
-url                      : "https://"
-baseurl                  : "ssum-2.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://ssum-2.github.io"
+baseurl                  :
 repository               : "ssum-2/ssum-2.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
