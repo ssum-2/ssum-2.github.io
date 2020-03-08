@@ -152,11 +152,11 @@ last_modified_at: 2020-03-06
      
      wget -o /home/username/${CUDA_REPO_PKG} http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/${CUDA_REPO_PKG} # cuda설치파일 다운로드; 교재에는 root 하위의 tmp폴더에 받았지만 나는 그냥 유저명폴더 하위로 받음
      
-     sudo dpkg -i /home/ssum/${CUDA_REPO_PKG} #패키지 해제
+     sudo dpkg -i /home/username/${CUDA_REPO_PKG} #패키지 해제
      
      sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/7fa2af80.pub #key 설정
      
-     rm -f /home/ssum/${CUDA_REPO_PKG} #설치파일 삭제
+     rm -f /home/username/${CUDA_REPO_PKG} #설치파일 삭제
      
      #설치
      sudo apt-get update
