@@ -1,5 +1,5 @@
 ---
-title: "선형대수의 개념; <인공지능을 위한 선형대수> 정리"
+title: "선형대수의 개념; \<인공지능을 위한 선형대수\> 정리"
 classes: wide
 categories:
   - Study
