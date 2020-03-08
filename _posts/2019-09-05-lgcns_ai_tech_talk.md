@@ -15,7 +15,10 @@ sidebar:
 last_modified_at: 2019-09-05
 ---
 
-##LG CNS; AI tech talk for NLU DAY
+
+## LG CNS; AI tech talk for NLU DAY
+
+---
 
 한국어 AI 연구
 
