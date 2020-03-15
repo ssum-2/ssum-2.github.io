@@ -2,19 +2,15 @@
 title: "Google Cloud Platform에서 GPU 환경 구축하기(feat. Pytorch)"
 classes: wide
 categories:
-  - GCP
-  - Server
   - Study
 tags:
   - python
   - anaconda3
   - pytorch
+  - server
+  - GCP
 author_profile : true
 use_math : true
-sidebar:
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
 last_modified_at: 2020-03-06
 ---
 

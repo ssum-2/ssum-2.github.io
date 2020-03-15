@@ -8,10 +8,6 @@ tags:
   - NLP/NLU
 author_profile : true
 use_math : true
-sidebar:
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
 last_modified_at: 2019-09-05
 ---
 

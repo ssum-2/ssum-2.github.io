@@ -8,10 +8,6 @@ tags:
   - Linear Algebra
 author_profile : true
 use_math : true
-sidebar:
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
 last_modified_at: 2020-01-02
 ---
 
